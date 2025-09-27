@@ -23,12 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoursmaddyy&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoursmaddyy&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/adeelasghar11">
