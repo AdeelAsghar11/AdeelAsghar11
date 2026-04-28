@@ -39,28 +39,38 @@ adeel = {
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,java,php&theme=dark)](https://skillicons.dev)
-
-**ML / DL**
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,js,php&theme=dark)](https://skillicons.dev)
 &nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🧠 Deep Learning & ML**
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-Runtime-005CED?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 
-**Full-Stack**
+**📊 Data Science**
 
-[![Skills](https://skillicons.dev/icons?i=react,nodejs,django,flutter,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Tools & Infra**
+**⚙️ DevOps & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=git,docker,linux,vercel,postgres&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,docker,jenkins,vscode&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </div>
 
