@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adeel+Asghar+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making;GDG+Tech+Lead+%40+COMSATS+Wah;Building+real+things+with+deep+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Adeel+Asghar+%F0%9F%91%8B;AI%2FML+Engineer;CAIO+%40+Algoligence;GDGoC+Community+Manager+%40+COMSATS+Wah)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,16 +20,15 @@
 
 ## About Me
 
-I'm a 6th-semester **BS Artificial Intelligence** student at COMSATS University Islamabad with strong academic record and **Tech Lead & Founding Member** of Google Developer Group (GDG) On Campus Wah.
+I'm a final-year **BS Artificial Intelligence** student at COMSATS University Islamabad, Wah Campus, and **Chief AI Officer (CAIO)** at Algoligence, an AI engineering startup. I also serve as **Community Manager & Founding Member** of Google Developer Group (GDG) On Campus Wah, where I help run workshops and mentor juniors in the campus AI/DS community.
 
-I don't just study AI — I build with it. My work spans full-stack AI applications, computer vision systems, and sequence models. I'm actively looking for **remote internships**, **project collaborations**, and **open-source contributions** where I can bring real ML engineering skills to the table.
-
-When I'm not training models, I'm running workshops, mentoring juniors, and pushing commits.
+I don't just study AI, I build with it. My work spans full-stack AI applications, computer vision systems, agentic and multi-agent workflows, and sequence models. I'm actively looking for **remote roles**, **project collaborations**, and **open-source contributions** where I can bring real ML engineering skills to the table.
 
 ```python
 adeel = {
-    "currently_learning" : ["Advanced CNNs", "RNNs & LSTMs", "Flutter"],
-    "open_to"            : ["Remote internships", "Collabs", "Freelance ML"],
+    "role"             : "CAIO @ Algoligence",
+    "currently_building": ["Agentic AI systems", "Multi-agent architectures", "LangGraph workflows"],
+    "open_to"          : ["Remote AI/ML roles", "Collabs", "Research opportunities"],
 }
 ```
 
@@ -47,13 +46,24 @@ adeel = {
 
 **🧠 Deep Learning & ML**
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-Runtime-005CED?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+
+**🤖 Agentic AI & Backend**
+
+[![Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev)
+&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+
+**📱 App & Web**
+
+[![Skills](https://skillicons.dev/icons?i=flutter,react,nodejs&theme=dark)](https://skillicons.dev)
 
 **📊 Data Science**
 
@@ -82,6 +92,19 @@ adeel = {
 <tr>
 <td width="50%" valign="top">
 
+### 🏆 Sortd: HACKDATA V1 Winner
+![Hackathon](https://img.shields.io/badge/HACKDATA_V1-Winner_🏆-FFD700?style=flat-square)
+![Deployed](https://img.shields.io/badge/Deployed-Vercel+Railway-00d9ff?style=flat-square)
+
+AI content capture platform that eliminates the "digital graveyard" problem. Gemini Vision for screenshot OCR, Groq Whisper for video transcription, real-time SSE updates, PWA support.
+
+`Gemini 1.5 Flash` `Groq Whisper` `React` `Supabase` `PWA`
+
+[→ View Repo](https://github.com/AdeelAsghar11/sortd)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤟 BSL Hand Gesture Recognition
 ![Accuracy](https://img.shields.io/badge/Accuracy-95.74%25-brightgreen?style=flat-square)
 ![Live](https://img.shields.io/badge/Live-Demo-00d9ff?style=flat-square)
@@ -93,6 +116,8 @@ Real-time British Sign Language classifier across **34 classes** (alphabet + num
 [→ View Repo](https://github.com/AdeelAsghar11/BSL-Hand_Gesture_Recognition) · [→ Live Demo](https://bsl-handgesturerecognition-rhu9sdhz9v9pzvxufdw2w7.streamlit.app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 ThreatLens
@@ -106,8 +131,6 @@ Malware binary classifier using the **byte-to-image technique** (Nataraj et al.,
 [→ View Repo](https://github.com/AdeelAsghar11/ThreatLens)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🩺 DermVision
@@ -121,19 +144,6 @@ AI-powered skin lesion classifier across **7 diagnostic classes** using MobileNe
 [→ View Repo](https://github.com/AdeelAsghar11/dermvision)
 
 </td>
-<td width="50%" valign="top">
-
-### 🏆 Sortd — HACKDATA V1 Winner
-![Hackathon](https://img.shields.io/badge/HACKDATA_V1-Winner_🏆-FFD700?style=flat-square)
-![Deployed](https://img.shields.io/badge/Deployed-Vercel+Railway-00d9ff?style=flat-square)
-
-AI content capture platform that eliminates the "digital graveyard" problem. Gemini Vision for screenshot OCR, Groq Whisper for video transcription, real-time SSE updates, PWA support.
-
-`Gemini 1.5 Flash` `Groq Whisper` `React` `Supabase` `PWA`
-
-[→ View Repo](https://github.com/AdeelAsghar11/sortd)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -142,7 +152,7 @@ AI content capture platform that eliminates the "digital graveyard" problem. Gem
 ![Accuracy](https://img.shields.io/badge/Test_Accuracy-62.74%25-yellow?style=flat-square)
 ![CPU](https://img.shields.io/badge/Trains_in-16_mins_CPU-lightgrey?style=flat-square)
 
-HOG + RBF SVM on CIFAR-10 — no deep learning. 9.48x dimensionality reduction, proper stratified validation, 16ms inference. A study in engineering trade-offs.
+HOG + RBF SVM on CIFAR-10 (no deep learning). 9.48x dimensionality reduction, proper stratified validation, 16ms inference. A study in engineering trade-offs.
 
 `HOG` `SVM` `Scikit-learn` `Feature Engineering`
 
@@ -155,7 +165,7 @@ HOG + RBF SVM on CIFAR-10 — no deep learning. 9.48x dimensionality reduction, 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Notebooks](https://img.shields.io/badge/Notebooks-11+-blue?style=flat-square)
 
-Structured learning lab covering optimization algorithms, regularization internals, RNNs, LSTMs, and medical CV — built alongside CampusX 100 Days of Deep Learning.
+Structured learning lab covering optimization algorithms, regularization internals, RNNs, LSTMs, and medical CV, built alongside CampusX 100 Days of Deep Learning.
 
 `TensorFlow` `Keras` `LSTM` `RNN` `Medical CV`
 
@@ -186,15 +196,15 @@ Structured learning lab covering optimization algorithms, regularization interna
 
 ## Certifications
 
-- 🎓 [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5TSYTOKNM8WK) — DeepLearning.AI / Coursera
-- 🎓 [IBM Data Analysis with Python](https://www.credly.com/badges/f94b6d3e-a7c0-4854-b309-5ef395598413/linked_in_profile) — IBM / Credly
-- 🎓 [CS50P: Introduction to Python](https://cs50.harvard.edu/certificates/c5546069-3e7c-480e-9d0c-e70b549fe065) — Harvard University
+- 🎓 [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5TSYTOKNM8WK) (DeepLearning.AI / Coursera)
+- 🎓 [IBM Data Analysis with Python](https://www.credly.com/badges/f94b6d3e-a7c0-4854-b309-5ef395598413/linked_in_profile) (IBM / Credly)
+- 🎓 [CS50P: Introduction to Python](https://cs50.harvard.edu/certificates/c5546069-3e7c-480e-9d0c-e70b549fe065) (Harvard University)
 
 ---
 
 ## Let's Work Together
 
-I'm open to **remote internships**, **freelance ML projects**, and **research collaborations** — especially in computer vision and applied deep learning.
+I'm open to **remote AI/ML roles**, **agentic AI & applied ML collaborations**, and **research opportunities**, across computer vision, deep learning, and multi-agent systems.
 
 <div align="center">
 
