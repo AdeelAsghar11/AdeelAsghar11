@@ -60,6 +60,7 @@ adeel = {
 &nbsp;
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-6E40C9?style=flat-square)
 
 **📱 App & Web**
 
@@ -92,6 +93,34 @@ adeel = {
 <tr>
 <td width="50%" valign="top">
 
+### 📜 Codebase Historian
+![Faithfulness](https://img.shields.io/badge/Faithfulness-100%25-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-LangGraph+ChromaDB+React-00d9ff?style=flat-square)
+
+Multi-agent GraphRAG platform that ingests a repo's full git history, PRs, and AST to explain why code is the way it is, forecast blast radius before a change, and propose refactors through an adversarial Proposer/Critic debate gated by human review.
+
+`LangGraph` `ChromaDB` `FastAPI` `React` `GraphRAG`
+
+[→ View Repo](https://github.com/AdeelAsghar11/codebase-historian-capstoneCalderr)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Multi-Agent Research Assistant
+![Agents](https://img.shields.io/badge/Agents-4_Specialized-00d9ff?style=flat-square)
+![HITL](https://img.shields.io/badge/HITL-Human_in_the_Loop-blueviolet?style=flat-square)
+
+Four LangGraph agents (Clarity, Research, Validator, Synthesis) collaborate on business research queries, pausing to ask the user when a query is ambiguous and looping back for more evidence when confidence runs low.
+
+`LangGraph` `FastAPI` `Tavily` `GPT-4o`
+
+[→ View Repo](https://github.com/AdeelAsghar11/Multi-Agent-Research-Assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏆 Sortd: HACKDATA V1 Winner
 ![Hackathon](https://img.shields.io/badge/HACKDATA_V1-Winner_🏆-FFD700?style=flat-square)
 ![Deployed](https://img.shields.io/badge/Deployed-Vercel+Railway-00d9ff?style=flat-square)
@@ -105,6 +134,20 @@ AI content capture platform that eliminates the "digital graveyard" problem. Gem
 </td>
 <td width="50%" valign="top">
 
+### 🛰️ GeoSimAI
+![Data](https://img.shields.io/badge/Data-Earth_Engine_Embeddings-brightgreen?style=flat-square)
+
+Geospatial similarity engine built on Google Earth Engine's satellite embeddings (DeepMind AlphaEarth Foundations). Pick a reference location and it ranks and visualizes environmentally similar sites across a region, no hand-engineered indices needed.
+
+`Google Earth Engine` `Python` `Flask` `Geospatial ML`
+
+[→ View Repo](https://github.com/AdeelAsghar11/GeoSimAI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤟 BSL Hand Gesture Recognition
 ![Accuracy](https://img.shields.io/badge/Accuracy-95.74%25-brightgreen?style=flat-square)
 ![Live](https://img.shields.io/badge/Live-Demo-00d9ff?style=flat-square)
@@ -116,8 +159,6 @@ Real-time British Sign Language classifier across **34 classes** (alphabet + num
 [→ View Repo](https://github.com/AdeelAsghar11/BSL-Hand_Gesture_Recognition) · [→ Live Demo](https://bsl-handgesturerecognition-rhu9sdhz9v9pzvxufdw2w7.streamlit.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 ThreatLens
@@ -131,6 +172,8 @@ Malware binary classifier using the **byte-to-image technique** (Nataraj et al.,
 [→ View Repo](https://github.com/AdeelAsghar11/ThreatLens)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🩺 DermVision
@@ -144,38 +187,23 @@ AI-powered skin lesion classifier across **7 diagnostic classes** using MobileNe
 [→ View Repo](https://github.com/AdeelAsghar11/dermvision)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🖼️ CIFAR-10: Classical ML Approach
-![Accuracy](https://img.shields.io/badge/Test_Accuracy-62.74%25-yellow?style=flat-square)
-![CPU](https://img.shields.io/badge/Trains_in-16_mins_CPU-lightgrey?style=flat-square)
+### 📊 Retail Sales Performance Dashboard
+![Scale](https://img.shields.io/badge/Scale-500K%2B_Transactions-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python+Tableau-00d9ff?style=flat-square)
 
-HOG + RBF SVM on CIFAR-10 (no deep learning). 9.48x dimensionality reduction, proper stratified validation, 16ms inference. A study in engineering trade-offs.
+ETL pipeline and Tableau command-center dashboard turning 500,000+ UK retail transactions into inventory, seasonality, and expansion insights, cleaned and modeled end to end in Python.
 
-`HOG` `SVM` `Scikit-learn` `Feature Engineering`
+`Python` `Pandas` `Tableau` `ETL`
 
-[→ View Repo](https://github.com/AdeelAsghar11/Cifar-10-Classification-using-ML)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Deep Learning Playground
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Notebooks](https://img.shields.io/badge/Notebooks-11+-blue?style=flat-square)
-
-Structured learning lab covering optimization algorithms, regularization internals, RNNs, LSTMs, and medical CV, built alongside CampusX 100 Days of Deep Learning.
-
-`TensorFlow` `Keras` `LSTM` `RNN` `Medical CV`
-
-[→ View Repo](https://github.com/AdeelAsghar11/deep-learning-playground)
+[→ View Repo](https://github.com/AdeelAsghar11/Retail-Sales-Performance-Dashboard)
 
 </td>
 </tr>
 </table>
 
-
+---
 
 ## Certifications
 
@@ -185,18 +213,9 @@ Structured learning lab covering optimization algorithms, regularization interna
 
 ---
 
-## Let's Work Together
-
-I'm open to **remote AI/ML roles**, **agentic AI & applied ML collaborations**, and **research opportunities**, across computer vision, deep learning, and multi-agent systems.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adeelasghar11-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adeelasghar11)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-adeelasghar.dev-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://adeelasghar.dev)
-
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-adeelyt157@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelyt157@gmail.com)
+I'm open to **remote AI/ML roles**, **agentic AI & applied ML collaborations**, and **research opportunities**, across computer vision, deep learning, and multi-agent systems. Let's work together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=80&section=footer" width="100%"/>
 
