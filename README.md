@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AdeelAsghar11&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/AdeelAsghar11)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adeelasghar11)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-adeelasghar.dev-00d9ff?style=flat-square&logo=vercel&logoColor=white)](https://adeelasghar.dev)
